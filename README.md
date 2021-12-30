@@ -15,7 +15,6 @@
 - :video_game: Hobbyist Game Developer
 - :vulcan_salute: Love all things Sci-Fi
 - :computer: Passionate about software development and I love learning new things
-- :goal_net: 2021 Goals: Contribute more to open source
 
 ## :hammer_and_wrench: Technologies
 ![C](https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=C&logoColor=white)
